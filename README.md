@@ -1,15 +1,16 @@
 
-Certainly! Here's how you can write the instructions for the README file:
-
 Enrolment Application
+
 This application is a simple enrolment system that manages users, courses, and enrolments.
 
 Getting Started
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 Prerequisites
-.NET Core SDK (version X.X or higher)
+.NET Core SDK 
 Visual Studio (optional)
+
 Installing
 Clone the repository to your local machine:
 
@@ -37,12 +38,14 @@ Usage
 Follow the on-screen instructions to interact with the application. You can create users, courses, and enrolments.
 
 Database
-The SQLite database file (enrollment.db) is located inside the XplorDemo directory. The application automatically connects to this database file.
+The SQLite database file (enrollment.db) is located inside the XplorDemo directory. 
+The application automatically connects to this database file.
 
 Built With
 C#
 .NET Core
 Entity Framework Core
 SQLite
+
 Authors
 Shivraj naik
